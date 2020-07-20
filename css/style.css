@@ -685,6 +685,7 @@ a:hover {
 .hart{
   width: 30px;
   height: 30px;
+  border-radius: 25px;
 }
 .about-mf .box-shadow-full {
   background-color: whitesmoke;
