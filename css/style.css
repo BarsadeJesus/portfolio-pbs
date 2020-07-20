@@ -1109,6 +1109,12 @@ background-color: goldenrod
   width: 30px;
   height: 30px;
 }
+.icon-web{
+  width: 30px;
+  height: 30px;
+  border-radius: 60px;
+}
+
 .container-list-contact{
   display: flex;
   flex-direction: row;
