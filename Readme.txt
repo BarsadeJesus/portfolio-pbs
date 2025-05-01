@@ -1,4 +1,4 @@
 Thanks for downloading this theme!
 
-Theme Name: Portfolio
+Theme Name: Portfolio de Patricia
 
